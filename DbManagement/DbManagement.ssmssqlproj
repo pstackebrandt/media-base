@@ -27,6 +27,18 @@
           <AssociatedConnUserName />
           <FullPath>Buch-show-base-values.sql</FullPath>
         </FileNode>
+        <FileNode Name="Buch-show-bewertung.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Buch-show-bewertung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Buch-show-top-5.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PSM8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PSM8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Buch-show-top-5.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
