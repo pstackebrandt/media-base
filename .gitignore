@@ -1,0 +1,64 @@
+# Visual Studio / SQL Server Management Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# SQL Server Management Studio temp files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Database files (if any)
+*.mdf
+*.ldf
+*.ndf
+
+# Log files
+*.log
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# IDE and editor files
+.vscode/
+*.code-workspace
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Package files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
