@@ -1,0 +1,6 @@
+SELECT TOP (1000) [ID]
+      ,[Autor]
+      ,[Titel]
+      ,[Erscheinungsjahr]
+      ,[Bewertung]
+  FROM [MediaBase].[dbo].[View-Buch-Bewertung]
